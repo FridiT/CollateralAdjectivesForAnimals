@@ -6,3 +6,5 @@ Source: https://en.wikipedia.org/wiki/List_of_animal_names
 
 Use Python 3.9, and the libraries: requests, BeautifulSoup, re, Pathlib.
 
+https://github.com/FridiT/CollateralAdjectivesForAnimals
+
