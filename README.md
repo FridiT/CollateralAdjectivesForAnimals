@@ -25,7 +25,9 @@ Generated an HTML file displaying the structured data with images where availabl
 
 ## Challenges & Key Decisions
 Choosing the right columns: Initially, I debated which attributes to extract, so I opted for all potentially relevant ones to maintain flexibility.
+
 Data cleaning: Ensured accuracy by stripping unnecessary details from names while preserving meaningful distinctions.
+
 Performance optimization: Leveraged threads to speed up image downloads, reducing total runtime.
 
 #### GitHub Repository: https://github.com/FridiT/CollateralAdjectivesForAnimals
